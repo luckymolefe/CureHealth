@@ -1,0 +1,14 @@
+C:\vb_projects\Projects\CureHealth\CureHealth\bin\Debug\CureHealth.exe
+C:\vb_projects\Projects\CureHealth\CureHealth\bin\Debug\CureHealth.pdb
+C:\vb_projects\Projects\CureHealth\CureHealth\bin\Debug\CureHealth.xml
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.Resources.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.SplashScreen1.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.vbproj.GenerateResource.Cache
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.exe
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.xml
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.pdb
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.AdminLogin.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.HcpLogin.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.Home.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.AdminPanel.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Debug\CureHealth.DoctorPanel.resources

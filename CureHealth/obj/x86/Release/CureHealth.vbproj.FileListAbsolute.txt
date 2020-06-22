@@ -1,0 +1,12 @@
+C:\vb_projects\Projects\CureHealth\CureHealth\bin\Release\CureHealth.exe
+C:\vb_projects\Projects\CureHealth\CureHealth\bin\Release\CureHealth.pdb
+C:\vb_projects\Projects\CureHealth\CureHealth\bin\Release\CureHealth.xml
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.AdminLogin.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.HcpLogin.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.Home.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.Resources.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.SplashScreen1.resources
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.vbproj.GenerateResource.Cache
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.exe
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.xml
+C:\vb_projects\Projects\CureHealth\CureHealth\obj\x86\Release\CureHealth.pdb
